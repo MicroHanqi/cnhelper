@@ -1,6 +1,6 @@
 # 中文版
 
-**[English 英文版本]: https://github.com/MicroHanqi/tradingzhcn**
+**[English 英文版本]: https://github.com/MicroHanqi/tradingenus**
 
 注意，本文为机器翻译，阅读起来可能会有一些困难。
 ------
